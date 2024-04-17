@@ -1,8 +1,12 @@
 # CFC_validation_mom_025_vs_observation
 Model details: 
+
 An earlier version of ACCESS-OM2 with WOMBAT BGC component.
+
 MOM5 + CORE-NYF atmospheric forcing
+
 0.25 Mercator horizontal resolution with 50 vertical layers
+
 See more information in Menviel et al., 2018.
 
 Observation dataset:
